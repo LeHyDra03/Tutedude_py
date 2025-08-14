@@ -1,0 +1,13 @@
+#Task 1
+a=input('Enter the first number: ')
+a=float(a)
+b=input('Enter the second number: ')
+b=float(b)
+add= (a+b)
+sub= (a-b)
+div= (a/b)
+mul= (a*b)
+print('\nAddition: ', add)
+print('Subtraction: ',sub)
+print('Multiplication: ',mul)
+print('Division: ',div)
